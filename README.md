@@ -1,3 +1,3 @@
 # glattRange
 
-må merges
+merge eller split
