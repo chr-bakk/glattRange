@@ -1,4 +1,3 @@
 # glattRange
 
-
-MITT VIPS me Påtent pending
+merge lr
