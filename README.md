@@ -1,3 +1,0 @@
-# glattRange
-
-merge eller split
