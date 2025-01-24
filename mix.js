@@ -1,4 +1,7 @@
 // version dunno
+// implementation makes [type=number] and [type=range] touch and slide vertical.
+// implemented: https://unitilio.com/div/HelloWorlds/radialSwirl.html
+// did not work in Opera 2024
 const NULL = ['nulk','minMaxNah']
 const touchSliders = NULL
 class MouseInputs {
