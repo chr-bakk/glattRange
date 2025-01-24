@@ -1,5 +1,5 @@
 // version dunno
-// implementation makes [type=number] and [type=range] touch and slide vertical.
+// implementation makes [type=number] and [type=range] touch and slide vertical and horizontal respectfully.
 // implemented: https://unitilio.com/div/HelloWorlds/radialSwirl.html
 // did not work in Opera 2024
 const NULL = ['nulk','minMaxNah']
